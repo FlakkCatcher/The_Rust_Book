@@ -9,7 +9,7 @@ fn main() {     //This is the start of the main function
 
     //println!("The secret number is: {secret_number}"); //Used for testing
 
-    loop {  //Adds a looping function to the program
+    loop {  //Adds a looping function to the program to keep it active after guessing
 
     println!("Please input your guess:");   //"Print Line" macro
 
